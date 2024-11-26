@@ -1,1 +1,1 @@
-# Diabetes
+The project focuses on predicting diabetes using machine learning models by analyzing medical features such as glucose levels, BMI, and age. It involves data preprocessing, model training, evaluation, and optimization to accurately predict diabetes for early diagnosis.
