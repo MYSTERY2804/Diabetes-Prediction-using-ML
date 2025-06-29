@@ -2,6 +2,11 @@
 
 A comprehensive web application that combines Machine Learning-based diabetes prediction with an AI-powered diabetes chatbot for complete diabetes health support.
 
+## 🌐 Live Deployment
+
+The project is live and can be accessed at:  
+👉 [https://diabetes-prediction-using-ml-yuju.onrender.com](https://diabetes-prediction-using-ml-yuju.onrender.com)
+
 ## Features
 
 ### Diabetes Prediction System
